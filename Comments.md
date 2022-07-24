@@ -1,12 +1,12 @@
-### comments are used to explain code, and to make more readable
-### comments starts with '#'
-### you can add triple string at the starting and ending of the text.
+#### comments are used to explain code, and to make more readable
+#### comments starts with '#'
+#### you can add triple string at the starting and ending of the text.
 
 
-# assigning value of 10 to a
+'#' assigning value of 10 to a
 a = 10
 
-# printing the a value
+'#' printing the a value
 print(a)
 
 
