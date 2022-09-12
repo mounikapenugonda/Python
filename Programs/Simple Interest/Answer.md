@@ -8,9 +8,9 @@ import math
         print("The Simple Interest is",si)
         return [p,n,r,si]
       
-Input : 3000
-        5
-        1
-Output : The Simple Interest is 150.0
-         [3000,5,1,150.0]
+    Input : 3000
+            5
+            1
+    Output : The Simple Interest is 150.0
+             [3000,5,1,150.0]
         
