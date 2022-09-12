@@ -3,10 +3,8 @@ import math
 def sim_int(p,n,r): 
     p= int(input())
     n= int(input())
-    r= int(input())
-      
-    si = (p*n*r)/100
-    
+    r= int(input())      
+    si = (p*n*r)/100    
     print("The Simple Interest is",si)
     return [p,n,r,si]
       
