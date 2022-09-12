@@ -1,4 +1,4 @@
-import math
+    import math
 
     def sim_int(p,n,r): 
         p= int(input())
