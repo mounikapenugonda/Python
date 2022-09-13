@@ -7,8 +7,7 @@
       print(len(a))
       print(a.strip())
       print(a.replace(a[position],"p"))
-      print(a.lower())  
-
+      print(a.lower()) 
       Input : Hello World
       Output : Enter a string: ll
                  _Wo (_ = space)
